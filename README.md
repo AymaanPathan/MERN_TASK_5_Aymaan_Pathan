@@ -47,7 +47,10 @@ Sorts items by popularity, allowing users to see the most popular items first.
    git clone https://github.com/AymaanPathan/MERN_TASK_5_Aymaan_Pathan.git
    ````
 
-
+2. Change Directory
+   ```bash
+   cd .\TableFilter\
+   ````
 
 2. Install dependencies:
 
