@@ -1,6 +1,14 @@
 ## E-commerce Item Filtering, Sorting, and Pagination
 <p>This project is a responsive e-commerce interface built with React and Tailwind CSS. It allows users to filter items by category, sort by price and popularity, search for specific items, and paginate the results.</h6>
 
+## Live Link
+https://mern-task-5-aymaan-pathan.vercel.app/
+
+
+<img width="928" alt="Screenshot 2024-10-17 114104" src="https://github.com/user-attachments/assets/d554efc9-2177-46bb-995f-7ef6bca00d03">
+
+
+
 ## Features
 <h6>Search Functionality: Users can search items by name, dynamically filtering the displayed list based on their input.</h6>
 
