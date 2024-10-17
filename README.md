@@ -24,3 +24,32 @@ Implements search functionality to filter items in real-time as the user types.
 Sorts items by price in ascending or descending order.
 Sorts items by popularity, allowing users to see the most popular items first.
 
+## Getting Started
+
+### Prerequisites
+
+- Node.js installed on your system.
+- npm package manager.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/dynamic-form-react.git
+   ````
+
+
+
+2. Install dependencies:
+
+    ```bash
+    npm i vite
+    ```
+
+4. Run the project:
+    ```bash
+   npm run dev
+    ```
+
+
